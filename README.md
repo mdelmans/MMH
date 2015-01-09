@@ -13,3 +13,8 @@ Current version allows the following operations:
 <br>
 
 <em>Timer:</em> performs a specified action (Snap or ZStack) for a specified number of cycles and interval.
+
+<br>
+
+<em>Arduino.cpp and Arduino.h<em> Modified Arduino device adapter for Micro-Manager that features xy-stage device.
+ 
