@@ -16,5 +16,5 @@ Current version allows the following operations:
 
 <br>
 
-<em>Arduino.cpp and Arduino.h<em> Modified Arduino device adapter for Micro-Manager that features xy-stage device.
+<em>Arduino.cpp and Arduino.h</em> Modified Arduino device adapter for Micro-Manager that features xy-stage device.
  
